@@ -1,0 +1,12 @@
+E:\University\C#\3rdCourse\Lab3\_lab3\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+E:\University\C#\3rdCourse\Lab3\_lab3\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+E:\University\C#\3rdCourse\Lab3\_lab3\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+E:\University\C#\3rdCourse\Lab3\_lab3\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+E:\University\C#\3rdCourse\Lab3\_lab3\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+E:\University\C#\3rdCourse\Lab3\_lab3\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+E:\University\C#\3rdCourse\Lab3\_lab3\Lab3\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+E:\University\C#\3rdCourse\Lab3\_lab3\Lab3\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+E:\University\C#\3rdCourse\Lab3\_lab3\Lab3\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+E:\University\C#\3rdCourse\Lab3\_lab3\Lab3\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+E:\University\C#\3rdCourse\Lab3\_lab3\Lab3\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+E:\University\C#\3rdCourse\Lab3\_lab3\Lab3\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
