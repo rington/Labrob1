@@ -1,0 +1,6 @@
+E:\University\C#\3rdCourse\Lab2\_lab2\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+E:\University\C#\3rdCourse\Lab2\_lab2\MyClassLibrary\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+E:\University\C#\3rdCourse\Lab2\_lab2\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+E:\University\C#\3rdCourse\Lab2\_lab2\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+E:\University\C#\3rdCourse\Lab2\_lab2\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+E:\University\C#\3rdCourse\Lab2\_lab2\MyClassLibrary\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
